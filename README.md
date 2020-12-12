@@ -1,2 +1,2 @@
 # barba-js-easy-example
- Tried to make a super simple example to learn barba.js
+ Made a super simple example for barba.js. Test it out here: https://johanjohanss.github.io/barba-js-easy-example/index.html
